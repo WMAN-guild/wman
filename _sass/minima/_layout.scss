@@ -77,25 +77,42 @@ article img{
 		width:50%;
 	 }
 
-	.inventaire{
-	display:var(--nodisplay-inventaire);
+	.ouverture-sac-label{
+	 display:inline-block;
+	 width:100%;
+	 }
+	 
+	.sacouvert{
+	display:var(--nodisplay);
+	
 	}
 	
-	.ouverture-sac-label{
-	display:var(--display-sac);
-	}
+	.sacferme{
+	margin:10em;}
 	
 	.ouverture-sac-checkbox:checked ~ .theme-container {
 		.inventaire{
-			display:var(--display-inventaire);
+			display:var(--display);
 		}
 		
-		.ouverture-sac-label{
-		display:var(--nodisplay-sac);
+		.sacouvert{
+		display:inline-block;
+		width:100%;
+		font-family:'pixel_takhisisregular';
+		text-align:right;
+		}
+		
+		.sacferme{
+			display:var(--nodisplay);
 		}
 	}
-	
 
+	.inventaire{
+	display:var(--nodisplay);
+	}
+	
+	
+	
 	
 	.sr-only {
   position: absolute;
