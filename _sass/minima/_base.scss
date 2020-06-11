@@ -11,8 +11,8 @@
 
 @font-face {
 font-family: "Necto-Mono";
-src: url({{'fonts/Necto-Mono.woff'| relative_url }}) format("woff"),
-url({{'fonts/Necto-Mono.woff2'| relative_url }})  format("woff2");
+src: url({{ 'fonts/Necto-Mono.woff'| relative_url }}) format("woff"),
+url({{ 'fonts/Necto-Mono.woff2'| relative_url }})  format("woff2");
 }
 
 @font-face {
