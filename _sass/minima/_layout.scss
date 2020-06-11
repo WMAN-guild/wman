@@ -67,7 +67,47 @@ article img{
 		float:right;
 		width:50%;
 	 }
+/**
+	* Droite
+	*/
+	
+	 .droite{
+		position:relative;
+		float:right;
+		width:50%;
+	 }
 
+	.inventaire{
+	display:var(--nodisplay-inventaire);
+	}
+	
+	.ouverture-sac-label{
+	display:var(--display-sac);
+	}
+	
+	.ouverture-sac-checkbox:checked ~ .theme-container {
+		.inventaire{
+			display:var(--display-inventaire);
+		}
+		
+		.ouverture-sac-label{
+		display:var(--nodisplay-sac);
+		}
+	}
+	
+
+	
+	.sr-only {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  white-space: nowrap; /* 1. */
+}
 	 
 	 .post-link img{
 	 border: 20px solid transparent;
