@@ -1,17 +1,14 @@
-
-
 /**
  * Reset some basic elements
  */
-
+ 
 :root{
 /*sac fermé*/
---nodisplay-inventaire:none;
---display-sac:auto;
+--nodisplay:none;
+--display:auto;
 
 /*sac ouvert*/
 --display-inventaire:inline-block;
---nodisplay-sac:none;
 } 
  
  
