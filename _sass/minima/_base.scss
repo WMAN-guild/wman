@@ -11,14 +11,14 @@
 
 @font-face {
 font-family: "Necto-Mono";
-src: url("wman/fonts/Necto-Mono.woff") format("woff"),
-url("wman/fonts/Necto-Mono.woff2") format("woff2");
+src: url({{'fonts/Necto-Mono.woff'|relative_url}}) format("woff"),
+url({{'fonts/Necto-Mono.woff2'|relative_url}})  format("woff2");
 }
 
 @font-face {
     font-family: 'pixel_takhisisregular';
-    src: url('wman/fonts/pixel_takhisis-webfont.woff2') format('woff2'),
-    url('wman/fonts/pixel_takhisis-webfont.woff') format('woff');
+	src: url({{'fonts/pixel_takhisis-webfont.woff2' | relative_url}}) format('woff2'),
+		url({{'fonts/pixel_takhisis-webfont.woff' | relative_url}}) format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -26,7 +26,7 @@ url("wman/fonts/Necto-Mono.woff2") format("woff2");
 
 body{
 	font-family: "Roboto Mono";
-	background-image:url("wman/imgs/wmanlogopale.png");
+	background-image:url({{'/imgs/wmanlogopale.png' | relative_rul }});
 	background-repeat:no-repeat;
 	background-position: center top;
 }
