@@ -34,9 +34,7 @@ url("https://pquod.github.io/wman//fonts/Necto-Mono.woff2") format("woff2");
 
 body{
 	font-family: "Necto-Mono";
-	background-image:url("https://pquod.github.io/wman/imgs/wmanlogopale.png");
-	background-repeat:no-repeat;
-	background-position: center top;
+background-image: linear-gradient(to bottom right, red, yellow);
 }
 
 a{
