@@ -26,7 +26,7 @@ url({{'fonts/Necto-Mono.woff2'|relative_url}})  format("woff2");
 
 body{
 	font-family: "Roboto Mono";
-	background-image:url({{'/imgs/wmanlogopale.png' | relative_rul }});
+	background-image:url({{'/imgs/wmanlogopale.png' | relative_url }});
 	background-repeat:no-repeat;
 	background-position: center top;
 }
