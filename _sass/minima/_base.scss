@@ -3,6 +3,17 @@
 /**
  * Reset some basic elements
  */
+
+:root{
+/*sac fermé*/
+--nodisplay-inventaire:none;
+--display-sac:auto;
+
+/*sac ouvert*/
+--display-inventaire:inline-block;
+--nodisplay-sac:none;
+} 
+ 
  
 * {
   margin: 0;
