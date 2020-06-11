@@ -1,0 +1,43 @@
+
+
+/**
+ * Reset some basic elements
+ */
+ 
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@font-face {
+font-family: "Necto-Mono";
+src: url("/fonts/Necto-Mono.woff") format("woff"),
+url("/fonts/Necto-Mono.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: 'pixel_takhisisregular';
+    src: url('/fonts/pixel_takhisis-webfont.woff2') format('woff2'),
+    url('/fonts/pixel_takhisis-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body{
+	font-family: "Roboto Mono";
+	background-image:url("../imgs/wmanlogopale.png");
+	background-repeat:no-repeat;
+	background-position: center top;
+}
+
+a{
+text-decoration:none;
+color:black;
+}
+
+ul, li{
+	list-style-type: none;
+}
+
+

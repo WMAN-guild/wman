@@ -1,0 +1,100 @@
+ /**
+	* Header
+	*/
+	
+
+	
+	.site-title {
+	display:inline-block;
+	font-family:'pixel_takhisisregular';
+	width:100%;
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:3em;
+	}
+
+/**
+	* Gauche
+	*/
+	.gauche{
+	position:relative;
+	float:left;
+	width:50%;
+	}
+	
+	.contenucolonnes{
+	padding:20px;}
+	
+	.page-link img{
+	 border: 20px solid transparent;
+	 border-image: url("/imgs/borderred.png") 20;
+	 background-color:white;
+	 color:red;
+	 }
+	 
+	 .icone-page{
+		width:3em;
+	 }
+	 
+	 .page-title{
+	 font-family:'pixel_takhisisregular';
+	 margin-top:20px;
+	 margin-bottom:20px;
+	 text-align:center;
+	 }
+	
+article p{
+	margin-bottom:20px;
+}
+
+article ul{
+margin-bottom:20px;
+}
+
+.home p{
+margin-bottom:20px;
+}
+
+.home img{
+	width:150px;
+}
+
+ 	/**
+	* Droite
+	*/
+	
+	 .droite{
+		position:relative;
+		float:right;
+		width:50%;
+	 }
+
+	 
+	 .post-link img{
+	 border: 20px solid transparent;
+	 border-image: url("/imgs/border.png") 20;
+	 background-color:white;
+	 }
+	 
+	 .icone-post{
+		width:3em;
+	 }
+	 
+/**
+*Post
+*/
+
+.post-header{
+font-family:'pixel_takhisisregular';
+ margin-top:20px;
+	 margin-bottom:20px;
+	 text-align:center;
+}
+
+
+
+
+	
+	 
+	
