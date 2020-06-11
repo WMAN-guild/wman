@@ -11,3 +11,4 @@ Avec le crew WMAN
 Defective economy au grand marché
 
 ![]({{site.baseurl}}/imgs/dropparty.png)
+![]({{site.baseurl}}/imgs/dropparty02.jpg)
