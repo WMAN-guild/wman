@@ -17,8 +17,8 @@ url({{ 'fonts/Necto-Mono.woff2'| relative_url }})  format("woff2");
 
 @font-face {
     font-family: 'pixel_takhisisregular';
-	src: url({{'fonts/pixel_takhisis-webfont.woff2' | relative_url }}) format('woff2'),
-		url({{'fonts/pixel_takhisis-webfont.woff' | relative_url }}) format('woff');
+	src: url({{ 'fonts/pixel_takhisis-webfont.woff2' | relative_url }}) format('woff2'),
+		url( {{'fonts/pixel_takhisis-webfont.woff' | relative_url }}) format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -26,7 +26,7 @@ url({{ 'fonts/Necto-Mono.woff2'| relative_url }})  format("woff2");
 
 body{
 	font-family: "Roboto Mono";
-	background-image:url({{'/imgs/wmanlogopale.png' | relative_url }});
+	background-image:url({{ '/imgs/wmanlogopale.png' | relative_url }});
 	background-repeat:no-repeat;
 	background-position: center top;
 }
