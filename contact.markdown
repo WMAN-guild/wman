@@ -7,4 +7,4 @@ icone: /imgs/icontact.png
 
 Contact : wmanguild (at) protonmail (dot) com
 
-Facebook
+[Facebook](https://www.facebook.com/WMANguild/)
