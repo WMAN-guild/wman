@@ -15,6 +15,6 @@ Ce que WMAN produit est aussi divers que ce qu’il explore.
 			
 WMAN construit de la recherche, de la réflexion autant que des formes plastiques telles que la performance, la sculpture, l’image ou le texte.
 
-![team gif]({{ site.url }}/wman/imgs/teammg.gif)
+![team gif]({{ site.baseurl }}/imgs/teammg.gif)
 
 WMAN est constitué d'un noyau dur de 6 artistes : Arthur Debert, Alix Desaubliaux, Lucie Desaubliaux, Valentin Godard, Léo Gouhier & Carin Klonowski.
