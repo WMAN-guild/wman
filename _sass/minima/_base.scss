@@ -11,14 +11,14 @@
 
 @font-face {
 font-family: "Necto-Mono";
-src: url("/fonts/Necto-Mono.woff") format("woff"),
-url("/fonts/Necto-Mono.woff2") format("woff2");
+src: url("https://pquod.github.io/wman//fonts/Necto-Mono.woff") format("woff"),
+url("https://pquod.github.io/wman//fonts/Necto-Mono.woff2") format("woff2");
 }
 
 @font-face {
     font-family: 'pixel_takhisisregular';
-    src: url('/fonts/pixel_takhisis-webfont.woff2') format('woff2'),
-    url('/fonts/pixel_takhisis-webfont.woff') format('woff');
+    src: url('https://pquod.github.io/wman//fonts/pixel_takhisis-webfont.woff2') format('woff2'),
+    url('https://pquod.github.io/wman//fonts/pixel_takhisis-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -26,7 +26,7 @@ url("/fonts/Necto-Mono.woff2") format("woff2");
 
 body{
 	font-family: "Roboto Mono";
-	background-image:url("imgs/wmanlogopale.png");
+	background-image:url("https://pquod.github.io/wman/imgs/wmanlogopale.png");
 	background-repeat:no-repeat;
 	background-position: center top;
 }
