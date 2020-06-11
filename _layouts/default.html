@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
+
+  {%- include head.html -%}
+
+  <body>
+	
+	{%- include header.html -%}
+
+ <main class="page-content" aria-label="Content">
+
+	<div class="gauche">
+		<div class="contenucolonnes">
+	{%- include nav.html -%}
+        {{ content }}
+		</div>
+	</div>
+		
+		
+	<div class="droite">
+		<div class="contenucolonnes">
+		<div class="inventaire">
+	{%- if site.posts.size > 0 -%}
+      
+      {%- for post in site.posts -%}   
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <img class="icone-post" src="{{ post.icone}}" alt="">
+          </a>
+      {%- endfor -%}
+  {%- endif -%}
+		</div>
+		</div>
+	</div>	
+	
+</main>
+
+
+
+  </body>
+
+</html>
