@@ -8,6 +8,6 @@ icone: /imgs/i1.png
 Work in progress - trying to find a good ending for our tremendous scenario 💪☀️
 Soon online
 
-![](/imgs/concrete01.png)
-![](/imgs/concrete02.jpg)
-![](/imgs/concrete03.jpg)
+![]({{ site.baseurl }}/imgs/concrete01.png)
+![]({{ site.baseurl }}/imgs/concrete02.jpg)
+![]({{ site.baseurl }}/imgs/concrete03.jpg)
