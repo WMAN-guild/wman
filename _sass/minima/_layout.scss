@@ -73,7 +73,7 @@ margin-bottom:20px;
 	 
 	 .post-link img{
 	 border: 20px solid transparent;
-		 border-image: url({{'/imgs/border.png'|absolute_url}}) 20;
+	 border-image: url("/imgs/border.png") 20;
 	 background-color:white;
 	 }
 	 
