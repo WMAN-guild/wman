@@ -10,4 +10,4 @@ Entre cryptographie et carnet de bord, elle retrace nôtre plongée a 6 dans le 
 
 [Elle est consultable ici !!!](https://fr.calameo.com/read/002746359928b8ca6f60d)
 
-![]({{site.baseurl}}/imgs/linkbookpubli.jpg)
+![]({{site.imgurl}}/linkbookpubli.jpg)
