@@ -8,6 +8,4 @@ icone: imgs/ibook.gif
 WMANNUMERO0_LINKBOOK, la première publication collective du groupe WMAN est accessible URL 🎮
 Entre cryptographie et carnet de bord, elle retrace nôtre plongée a 6 dans le monde ouvert d'URU LIVE aka MYST ONLINE ! ⚡️
 
-[Elle est consultable ici !!!](https://fr.calameo.com/read/002746359928b8ca6f60d)
-
-![]({{site.imgurl}}/linkbookpubli.jpg)
+<div style="text-align:center;"><div style="margin:8px 0px 4px;"><a href="https://www.calameo.com/books/002746359928b8ca6f60d" target="_blank">WMANNUMERO0_LINKBOOK</a></div><iframe src="//v.calameo.com/?bkcode=002746359928b8ca6f60d&mode=mini" width="480" height="300" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe><div style="margin:4px 0px 8px;"><a href="http://www.calameo.com/" target="_blank">Lire plus de publications sur Calaméo</a></div></div>
