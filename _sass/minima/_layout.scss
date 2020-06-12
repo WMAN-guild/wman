@@ -1,19 +1,22 @@
-
-/**
+ /**
 	* Header
 	*/
 	
-
 	
 	.site-title {
 	display:inline-block;
-	font-family:'pixel_takhisisregular';
 	width:100%;
-	text-align:center;
-	margin-top:10px;
+	font-family:'pixel_takhisisregular';
 	margin-bottom:10px;
-	font-size:3em;
+	text-decoration:none;
+	text-align:center;
+	font-size:5em;
 	}
+	
+	.site-title img{
+	margin-top:40px;
+	}
+	
 
 /**
 	* Gauche
@@ -24,25 +27,36 @@
 	width:50%;
 	}
 	
-	.contenucolonnes{
-	padding:20px;}
+.contenucolonnes{
+	padding-top:20px;
+	padding-left:60px;
+	padding-right:60px;
+	padding-bottom:60px;
+	}
 	
-	.page-link img{
+	.post-header{
 	 border: 20px solid transparent;
-	 border-image: url("https://pquod.github.io/wman/imgs/borderred.png") 20;
-	 background-color:white;
-	 color:red;
-	 }
-	 
-	 .icone-page{
-		width:3em;
-	 }
+	 border-image: url("https://pquod.github.io/wman/imgs/bordermarron.gif") 20;
+	 height:50px;
+	 background-color:#e8d5b9;
+	}
+	
+	.home{
+	border: 20px solid transparent;
+	 border-image: url("https://pquod.github.io/wman/imgs/bordermarron.gif") 20;
+	 background-color:#e8d5b9;
+	}
 	 
 	 .page-title{
 	 font-family:'pixel_takhisisregular';
-	 margin-top:20px;
-	 margin-bottom:20px;
 	 text-align:center;
+	 margin-top:10px;
+	 }
+	 
+	 .post-content{
+	 border: 20px solid transparent;
+	 border-image: url("https://pquod.github.io/wman/imgs/bordermarron.gif") 20;
+	 background-color:#e8d5b9;
 	 }
 	
 article p{
@@ -59,7 +73,6 @@ width:100%;}
 .home img{
 	width:150px;
 }
-
  	/**
 	* Droite
 	*/
@@ -69,17 +82,30 @@ width:100%;}
 		float:right;
 		width:50%;
 	 }
-/**
-	* Droite
-	*/
-	
-	 .droite{
-		position:relative;
-		float:right;
-		width:50%;
+	 
+	 
+	 /**
+	 *NAV
+	 */
+	 
+	 .site-nav{
+	 margin-top:20px;
+
+	 }
+	 
+	 .page-link{
+	 margin-right:10px;
+	 }
+	 	.page-link img{
+	 border: 20px solid transparent;
+	 
 	 }
 
-	.ouverture-sac-label{
+	 .icone-page{
+		width:3em;
+	 }	
+	
+	 .ouverture-sac-label{
 	 display:inline-block;
 	 width:100%;
 	 }
@@ -90,7 +116,8 @@ width:100%;}
 	}
 	
 	.sacferme{
-	margin:10em;}
+	margin:100px;
+	}
 	
 	.ouverture-sac-checkbox:checked ~ .theme-container {
 		.inventaire{
@@ -101,7 +128,11 @@ width:100%;}
 		display:inline-block;
 		width:100%;
 		font-family:'pixel_takhisisregular';
+		font-size:2em;
 		text-align:right;
+		color:red;
+		text-shadow: 1px 1px 2px black;
+
 		}
 		
 		.sacferme{
@@ -130,14 +161,15 @@ width:100%;}
 	 
 	 .post-link img{
 	 border: 20px solid transparent;
-	 border-image: url("https://pquod.github.io/wman/imgs/border.png") 20;
-	 background-color:white;
 	 }
+	 
+
 	 
 	 .icone-post{
 		width:3em;
 	 }
 	 
+
 /**
 *Post
 */
@@ -148,7 +180,6 @@ font-family:'pixel_takhisisregular';
 	 margin-bottom:20px;
 	 text-align:center;
 }
-
 
 
 
