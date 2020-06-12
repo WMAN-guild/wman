@@ -2,7 +2,7 @@
 layout: page
 title: contact
 permalink: /contact/
-icone: /imgs/icontact.png
+icone: /imgs/icontact.gif
 ---
 
 Contact : wmanguild (at) protonmail (dot) com
