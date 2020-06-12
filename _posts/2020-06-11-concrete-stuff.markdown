@@ -8,6 +8,6 @@ icone: /imgs/i1.png
 Work in progress - trying to find a good ending for our tremendous scenario 💪☀️
 Soon online
 
-![Concrete Stuff - the Game]({{ site.baseurl }}/imgs/concrete01.png)
-![Concrete Stuff - the Game]({{ site.baseurl }}/imgs/concrete02.jpg)
-![Concrete Stuff - the Game]({{ site.baseurl }}/imgs/concrete03.jpg)
+![Concrete Stuff - the Game]({{ site.imgurl }}/concrete01.png)
+![Concrete Stuff - the Game]({{ site.imgurl }}/concrete02.jpg)
+![Concrete Stuff - the Game]({{ site.imgurl }}/concrete03.jpg)
