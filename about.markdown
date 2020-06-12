@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-icone: /imgs/iabout.png
+icone: /imgs/iabout.gif
 ---
 
 Nous prenons le parti de proposer l’expérience collective par le jeu plutôt que de nous concentrer sur une quelconque urgence de production. Nous posons le lieu au centre de nos questions en fabriquant un laboratoire sauvage et itinérant. Nous pensons qu’il faut concevoir de nouveaux lieux pour la pratique artistique et nous nous demandons à quoi ces lieux peuvent ressembler. Nous choisissons de faire du divertissement un vrai lieu de travail et de nous déployer aussi bien dans le monde physique (salles de conférences, espaces d’exposition, lieux de vie...) que dans des espaces numériques (jeux, interfaces de discussions, logiciels de collaboration...).
