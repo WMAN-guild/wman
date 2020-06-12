@@ -8,4 +8,4 @@ icone: /imgs/i3.png
 
 [Elle est consultable ici !!!](https://www.calameo.com/books/002746359dca6de385ec4)
 
-![]({{site.baseurl}}/imgs/dragonpubli.jpg)
+![]({{site.imgurl}}/dragonpubli.jpg)
