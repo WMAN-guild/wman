@@ -3,7 +3,7 @@ layout: post
 title:  "WMANNUMERO00_LINKBOOK"
 date:   2020-02-27 15:30:49 +0200
 categories: jekyll update
-icone: {{site.icourl}}/ibook.gif
+icone: imgs/ibook.gif
 ---
 WMANNUMERO0_LINKBOOK, la première publication collective du groupe WMAN est accessible URL 🎮
 Entre cryptographie et carnet de bord, elle retrace nôtre plongée a 6 dans le monde ouvert d'URU LIVE aka MYST ONLINE ! ⚡️
