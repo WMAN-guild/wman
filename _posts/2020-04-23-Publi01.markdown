@@ -2,7 +2,7 @@
 layout: post
 title:  WMANNUMERO01_DRAGON
 date:   2020-04-23 15:30:49 +0200
-icone: /imgs/i3.png
+icone: /imgs/ibook.gif
 ---
 🐲 WMANNUMERO1_DRAGON, la seconde publication collective du groupe WMAN est accessible en ligne ! Vous y trouverez une intime partie de nos échanges sur notre passion commune : les dragons️ 🐉
 
