@@ -10,5 +10,5 @@ Runescape Serveur FR
 Avec le crew WMAN
 Defective economy au grand marché
 
-![]({{site.baseurl}}/imgs/dropparty.png)
-![]({{site.baseurl}}/imgs/dropparty02.jpg)
+![]({{site.imgurl}}/dropparty.png)
+![]({{site.imgurl}}/dropparty02.jpg)
