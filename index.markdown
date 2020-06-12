@@ -1,7 +1,7 @@
 ---
 layout: home
 title: home
-icone: /imgs/imaison.png
+icone: /imgs/imaison.gif
 ---
 WMAN est un groupe de travail, de recherche et de pratique artistique.
 
