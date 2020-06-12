@@ -182,7 +182,33 @@ font-family:'pixel_takhisisregular';
 }
 
 
-
+@media screen and (max-width: 800px) {
+	.gauche{
+	position:auto;
+	width:100%;
+	}
+	
+	.droite{
+	position:auto;
+	width:100%;}
+	
+	.contenucolonnes{
+	padding:10px;
+	}
+	
+	.sacferme{
+	display:none;
+	}
+	
+	.inventaire{
+	display:inline-block;;
+	}
+	
+	.sacouvert{
+	display:none;
+	}
+	
+}
 	
 	 
 	
