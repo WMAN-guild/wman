@@ -2,26 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
 
   {%- include head.html -%}
-  <script>
-document.addEventListener('DOMContentLoaded', function () {
-  const checkbox = document.querySelector('.ouverture-sac-checkbox');
 
-  checkbox.checked = localStorage.getItem('ouvertureSac') === 'true';
-
-  checkbox.addEventListener('change', function (event) {
-    localStorage.setItem('ouvertureSac', event.currentTarget.checked);
-  });
-});
-	  
-var imgCount = 3;
-        var dir = 'imgs/';
-        var randomCount = Math.round(Math.random() * (imgCount - 1)) + 1;
-        var images = new Array
-                images[1] = "bois.gif",
-                images[2] = "fond_art.gif",
-                images[3] = "fond_art2.gif",
-        document.getElementById("fond").style.backgroundImage = "url(" + dir + images[randomCount] + ")";
-</script>
   <body>
 	  <div id="fond">
 
@@ -73,7 +54,26 @@ var imgCount = 3;
 	</div>
 	  </div>
   </body>
-	
+	  <script>
+document.addEventListener('DOMContentLoaded', function () {
+  const checkbox = document.querySelector('.ouverture-sac-checkbox');
+
+  checkbox.checked = localStorage.getItem('ouvertureSac') === 'true';
+
+  checkbox.addEventListener('change', function (event) {
+    localStorage.setItem('ouvertureSac', event.currentTarget.checked);
+  });
+});
+	  
+var imgCount = 3;
+        var dir = 'imgs/';
+        var randomCount = Math.round(Math.random() * (imgCount - 1)) + 1;
+        var images = new Array
+                images[1] = "bois.gif",
+                images[2] = "fond_art.gif",
+                images[3] = "fond_art2.gif",
+        document.getElementById("fond").style.backgroundImage = "url(" + dir + images[randomCount] + ")";
+</script>
 		
 		
 
