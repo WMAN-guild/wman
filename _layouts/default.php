@@ -2,38 +2,9 @@
 <html lang="{{ page.lang | default: site.lang | default: 'fr' }}">
 
   {%- include head.html -%}
-<?php
-$count = 20;
-function fetch_rand()
-{
-    $images = glob('imgs/*.*');
-    $rand = array_rand($images);
-    return $images[$rand];
-}
 
-$my_list = array();
-$i = 0;
-while($i<$count)
-{
-    $select = fetch_rand();
-    if(!in_array($select,$my_list))
-    {
-        array_push($my_list,$select);
-        $i++;
-    }
-}
+  <body>
 
-print_r($my_list); 
-
-foreach($my_list as $image)
-{
-    $image_link = explode('.',end(explode('/',$image)));
-    $image_link = $image_link[0];
-   // echo $image_link;
-    echo "
-  <body style='background-image:url(" . $image . ");'>";
-}
-?>
 	<input class="ouverture-sac-checkbox sr-only" id="ouverture-sac" type="checkbox">
 	<div class="theme-container grow">
 	{%- include header.html -%}
