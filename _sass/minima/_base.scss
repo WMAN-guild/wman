@@ -35,7 +35,8 @@ url("http://wman.monster/fonts/Necto-Mono.woff2") format("woff2");
 body{
 	font-family: "Necto-Mono";
 	background-position: center top;
-	min-height:100vh;
+	height:100vh;
+	position:fixed;
 }
 
 a{
