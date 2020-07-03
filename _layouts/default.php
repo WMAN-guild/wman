@@ -23,13 +23,13 @@ while($i<$count)
     }
 }
 
-//print_r($my_list); //just for check
+print_r($my_list); 
 
 foreach($my_list as $image)
 {
     $image_link = explode('.',end(explode('/',$image)));
     $image_link = $image_link[0];
-    echo $image_link;
+   // echo $image_link;
     ?>
 
 
