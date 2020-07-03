@@ -30,16 +30,8 @@ foreach($my_list as $image)
     $image_link = explode('.',end(explode('/',$image)));
     $image_link = $image_link[0];
    // echo $image_link;
-    ?>
-
-
-  <body style="background-image:url(<?php echo $image; ?>);">
-      <div class="tile">
-    <a class="tile-inner" href="imgs/<?php echo $image_link; ?>">
-        <img class="item" src="<?php echo $image; ?>" />
-    </a>
-    </div>
-    <?php
+    echo "
+  <body style="background-image:url(" . $image; .");">
 }
 ?>
 	<input class="ouverture-sac-checkbox sr-only" id="ouverture-sac" type="checkbox">
