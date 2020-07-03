@@ -31,7 +31,7 @@ foreach($my_list as $image)
     $image_link = $image_link[0];
    // echo $image_link;
     echo "
-  <body style='background-image:url(" . $image . ")'>";
+  <body style='background-image:url(" . $image . ")'>".;
 }
 ?>
 	<input class="ouverture-sac-checkbox sr-only" id="ouverture-sac" type="checkbox">
