@@ -34,43 +34,8 @@ url("http://wman.monster/fonts/Necto-Mono.woff2") format("woff2");
 
 body{
 	font-family: "Necto-Mono";
-	background-image:
-	
-	 <div id="player">
-    </div>
-
-    <script>
-      class ClickListener {
-        constructor() {
-          this.rootElement = document.querySelector( "#player" );
-          this.element = document.createElement("img");
-          this.rootElement.appendChild(this.element);
-          this.images = ["/imgs/bois.gif", "/imgs/fond_art.gif", "/imgs/fond_art2.gif"]
-          this.idx = 0
-          this.init()
-        }
-
-        init() {
-          this.element.src = this.images[this.idx]
-          this.element.style.width = `50px`;
-          this.element.style.height = `50px`;
-          this.element.onclick = this.nextImage.bind(this)
-        }
-
-        nextImage() {
-          this.idx++;
-          if(this.idx >= this.images.length) {
-            this.idx = 0;
-          }
-          this.element.src = this.images[this.idx]
-        }
-
-      }
-      new ClickListener()
-    </script>
-	
-	
-	
+	background-image: url "/imgs/bois.gif";
+  
 	background-position: center top;	 
 }
 
