@@ -2,8 +2,8 @@
  /**
 	* Header
 	*/
-	
-	
+
+
 	.site-title {
 	display:inline-block;
 	width:100%;
@@ -13,11 +13,11 @@
 	text-align:center;
 	font-size:5em;
 	}
-	
+
 	.site-title img{
 	margin-top:40px;
 	}
-	
+
 	.navsmart{
 	display:none;
 	}
@@ -30,40 +30,40 @@
 	float:left;
 	width:60%;
 	}
-	
+
 	.contenucolonnes{
 	padding-top:20px;
 	padding-left:60px;
 	padding-right:60px;
 	padding-bottom:60px;
-	
+
 	}
 
 	.post-header{
 	 border: 20px solid transparent;
 	 border-image: url("http://wman.monster/imgs/bordermarron.gif") 20;
 	 min-height:50px;
-	 background-color:#e8d5b9;
+	 background-color:#f0f6ff;
 	}
-	
+
 	.home{
 	border: 20px solid transparent;
 	 border-image: url("http://wman.monster/imgs/bordermarron.gif") 20;
-	 background-color:#e8d5b9;
+	 background-color:#f0f6ff;
 	}
-	 
+
 	 .page-title{
 	 font-family:'pixel_takhisisregular';
 	 text-align:center;
 	 margin-top:10px;
 	 }
-	 
+
 	 .post-content{
 	 border: 20px solid transparent;
 	 border-image: url("http://wman.monster/imgs/bordermarron.gif") 20;
-	 background-color:#e8d5b9;
+	 background-color:#f0f6ff;
 	 }
-	
+
 article p{
 	margin-bottom:20px;
 }
@@ -82,41 +82,41 @@ width:100%;}
  	/**
 	* Droite
 	*/
-	
+
 	 .droite{
 		position:relative;
 		float:right;
 		width:40%;
 	 }
-	 
-	 
+
+
 	 /**
 	 *NAV
 	 */
-	 
+
 	 .site-nav{
 	 margin-top:20px;
 
 	 }
-	 
+
 	 .page-link{
 	 }
 
 	 .icone-page{
 		width:3em;
 		margin-right:10px;
-	 }	
-	
+	 }
+
 	 .ouverture-sac-label{
 	 display:inline-block;
 	 width:100%;
 	 }
-	 
+
 	.sacouvert{
 	display:var(--nodisplay);
 	cursor:pointer;
 	}
-	
+
 	.sacferme{
 	background-image: url("http://wman.monster/imgs/sacstatic.gif");
 	width:130px;
@@ -124,20 +124,20 @@ width:100%;}
 	margin:100px;
 	cursor:pointer;
 	}
-	
+
 	.sacferme:hover{
 	background-image: url("http://wman.monster/imgs/sac.gif");
 	}
-	
 
 
 
-	
+
+
 	.ouverture-sac-checkbox:checked ~ .theme-container {
 		.inventaire{
 			display:var(--display);
 		}
-		
+
 		.sacouvert{
 		display:inline-block;
 		width:100%;
@@ -148,12 +148,12 @@ width:100%;}
 		text-shadow: 1px 1px 2px black;
 
 		}
-		
+
 		.sacouvert img{
 		width:1em;
 	 background-color:#e8d5b9;
 		}
-		
+
 		.sacferme{
 			display:var(--nodisplay);
 		}
@@ -162,10 +162,10 @@ width:100%;}
 	.inventaire{
 	display:var(--nodisplay);
 	}
-	
-	
-	
-	
+
+
+
+
 	.sr-only {
   position: absolute;
   overflow: hidden;
@@ -177,12 +177,12 @@ width:100%;}
   border: 0;
   white-space: nowrap; /* 1. */
 }
-	 
+
 
 	 .icone-post{
 		width:3em;
 	 }
-	 
+
 
 /**
 *Post
@@ -200,39 +200,33 @@ font-family:'pixel_takhisisregular';
 	position:auto;
 	width:100%;
 	}
-	
+
 	.droite{
 	position:auto;
 	width:100%;}
-	
+
 	.contenucolonnes{
 	padding:10px;
 	}
-	
+
 	.sacferme{
 	display:none;
 	}
-	
+
 	.inventaire{
 	display:inline-block;;
 	}
-	
+
 	.sacouvert{
 	display:none;
 	}
-	
+
 	.navscreen{
 	display:none;
 	}
-	
+
 	.navsmart{
 	display:inline-block;
 	}
-	
+
 }
-
-
-
-	
-	 
-	
