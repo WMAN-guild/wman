@@ -33,7 +33,7 @@ foreach($my_list as $image)
     ?>
 
 
-  <body style="background-image:url(<?php echo $image; ?>)">
+  <body style="background-image:url("<?php echo $image; ?>");">
       <div class="tile">
     <a class="tile-inner" href="imgs/<?php echo $image_link; ?>">
         <img class="item" src="<?php echo $image; ?>" />
