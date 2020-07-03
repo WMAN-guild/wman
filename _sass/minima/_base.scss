@@ -34,7 +34,41 @@ url("http://wman.monster/fonts/Necto-Mono.woff2") format("woff2");
 
 body{
 	font-family: "Necto-Mono";
-	background-image:url("/imgs/fond_art2.gif");
+	background-image:
+		<div id="imageGallery">    
+    <img id="image" src="/imgs/fond_art2.gif" />
+    <div id="previous">Previous</div>    
+    <div id="next">Next</div>        
+</div>
+
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+<script>
+    $( document ).ready(function() {
+
+        var images = [
+            "/imgs/fond_art2.gif",
+            "/imgs/fond_art.gif",
+            "/imgs/bois.gif"    
+        ];
+
+        var imageIndex = 0;
+
+        $("#previous").on("click", function(){          
+            imageIndex = (imageIndex + images.length -1) % (images.length);    
+            $("#image").attr('src', images[imageIndex]);
+        });
+
+        $("#next").on("click", function(){
+            imageIndex = (imageIndex+1) % (images.length);    
+            $("#image").attr('src', images[imageIndex]);
+        });
+
+        $("#image").attr(images[0]);
+
+    });
+</script>
+
 	background-position: center top;	 
 }
 
