@@ -34,9 +34,8 @@ url("http://wman.monster/fonts/Necto-Mono.woff2") format("woff2");
 
 body{
 	font-family: "Necto-Mono";
-	height:100vh;
-	background-image:url("https://pquod.github.io/wman/imgs/bois.gif");
-	background-position: center top;
+	background-image:url("/imgs/bois.gif");
+	background-position: center top;	 
 }
 
 a{
