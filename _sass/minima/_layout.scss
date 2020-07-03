@@ -64,6 +64,19 @@
 	 background-color:#f5f2f7;
 	 }
 
+#fondu {
+	position: absolute;
+	background-color: #FFFFFF;
+	height: 100%;
+	width: 100%;
+	top: 0%;
+	left: 0%;
+	z-index: 2;
+	cursor: all-scroll;
+	color: rgb(117, 117, 117);
+	overflow: hidden;
+    }
+
 article p{
 	margin-bottom:20px;
 }
