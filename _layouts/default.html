@@ -71,12 +71,12 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 	  
 var imgCount = 3;
-        var dir = 'images/';
+        var dir = 'imgs/';
         var randomCount = Math.round(Math.random() * (imgCount - 1)) + 1;
         var images = new Array
-                images[1] = "imgs/bois.gif",
-                images[2] = "imgs/fond_art.gif",
-                images[3] = "imgs/fond_art2.gif",
+                images[1] = "bois.gif",
+                images[2] = "fond_art.gif",
+                images[3] = "fond_art2.gif",
         document.getElementById("fond").style.backgroundImage = "url(" + dir + images[randomCount] + ")";
 </script>
 </html>
