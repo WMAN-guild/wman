@@ -4,6 +4,7 @@
   {%- include head.html -%}
 
   <body>
+	  <div id="fond">
 
 	<input class="ouverture-sac-checkbox sr-only" id="ouverture-sac" type="checkbox">
 	<div class="theme-container grow">
@@ -53,6 +54,7 @@
 	  <div id="fondu">
 <iframe src="imgs/bois.gif" width="100%" height="100%" style="border:0;" class="imagefond" name="iframe_a"></iframe>
 	  </div>
+	</div>
   </body>
 	
 		
@@ -67,5 +69,14 @@ document.addEventListener('DOMContentLoaded', function () {
     localStorage.setItem('ouvertureSac', event.currentTarget.checked);
   });
 });
+	  
+var imgCount = 3;
+        var dir = 'images/';
+        var randomCount = Math.round(Math.random() * (imgCount - 1)) + 1;
+        var images = new Array
+                images[1] = "imgs/bois.gif",
+                images[2] = "imgs/fond_art.gif",
+                images[3] = "imgs/fond_art2.gif",
+        document.getElementById("fond").style.backgroundImage = "url(" + dir + images[randomCount] + ")";
 </script>
 </html>
