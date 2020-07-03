@@ -19,14 +19,14 @@
 
 @font-face {
 font-family: "Necto-Mono";
-src: url("https://pquod.github.io/wman//fonts/Necto-Mono.woff") format("woff"),
-url("https://pquod.github.io/wman//fonts/Necto-Mono.woff2") format("woff2");
+src: url("https://wman.monster/fonts/Necto-Mono.woff") format("woff"),
+url("https://wman.monster/fonts/Necto-Mono.woff2") format("woff2");
 }
 
 @font-face {
     font-family: 'pixel_takhisisregular';
-    src: url('https://pquod.github.io/wman/fonts/pixel_takhisis-webfont.woff2') format('woff2'),
-    url('https://pquod.github.io/wman/fonts/pixel_takhisis-webfont.woff') format('woff');
+    src: url('https://wman.monster/fonts/pixel_takhisis-webfont.woff2') format('woff2'),
+    url('https://wman.monster/fonts/pixel_takhisis-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -35,7 +35,7 @@ url("https://pquod.github.io/wman//fonts/Necto-Mono.woff2") format("woff2");
 body{
 	font-family: "Necto-Mono";
 	height:100vh;
-	background-image:url("https://pquod.github.io/wman/imgs/bois.gif");
+	background-image:url("https://wman.monster/imgs/bois.gif");
 	background-position: center top;
 }
 
