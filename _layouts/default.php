@@ -51,6 +51,10 @@
 
 	</div>
   </body>
+	<div id="fondu">
+<iframe src="imgs/bois.gif"width="100%" height="100%"style="border:0" name="iframe_a">></iframe>
+		
+		
   <script>
 document.addEventListener('DOMContentLoaded', function () {
   const checkbox = document.querySelector('.ouverture-sac-checkbox');
