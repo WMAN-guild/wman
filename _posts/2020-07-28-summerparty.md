@@ -6,8 +6,8 @@ categories: jekyll update
 icone: imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/sun.jpg)
-#SUMMER PARTY
-*8 choses à faire avec WMAN cet été :*
+
+8 choses à faire avec WMAN cet été :
 
 
 - regarder les étoiles tard le soir : [Star Catchers](https://wedgiebee.itch.io/starcatchers)
@@ -29,5 +29,5 @@ icone: imgs/icoeur.gif
 
 
 
-
+<3
 Bisous ensoleillés !
