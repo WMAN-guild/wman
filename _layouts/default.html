@@ -65,14 +65,12 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 	  
-var imgCount = 4;
+var imgCount = 2;
         var dir = 'http://wman.monster/imgs/';
         var randomCount = Math.round(Math.random() * (imgCount - 1)) + 1;
         var images = new Array
-                images[1] = "bois.gif",
-                images[2] = "water50.gif",
-                images[3] = "fond_art2.gif",
-		images[4] = "grass50.gif",
+                images[1] = "water50.gif",
+		images[2] = "grass50.gif",
         document.getElementById("fond").style.backgroundImage = "url(" + dir + images[randomCount] + ")";
 </script>
 		
