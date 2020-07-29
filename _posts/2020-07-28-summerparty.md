@@ -6,9 +6,10 @@ categories: jekyll update
 icone: imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/sun.jpg)
-# SUMMER PARTY
-## 8 choses à faire avec WMAN cet été :
-*****
+*SUMMER PARTY*
+8 choses à faire avec WMAN cet été :
+
+
 - regarder les étoiles tard le soir : [Star Catchers](https://wedgiebee.itch.io/starcatchers)
 
 - faire du surf extrême: [Can't Surf](https://mrmixerr.itch.io/cant-surf)
@@ -21,10 +22,12 @@ icone: imgs/icoeur.gif
 
 - jouer à 1, 2, 3, soleil ! : [123 Soleil](https://zappedcow.itch.io/123soleil)
 
+- Faire attention à l'environnement : [Alone on the Rocky Beach](https://noroadhome.itch.io/alone-on-the-rocky)
+
 - "ramasser des noix de coco"... : !!!!NSFW!!!!! [Coconut Quest, a gay adventure](https://zackk.itch.io/coconut-quest-a-gay-adventure)
 
-- Faire attention à l'environnement : [Alone on the Rocky Beach](https://noroadhome.itch.io/alone-on-the-rocky)
-****
-****
+
+
+
 
 Bisous ensoleillés !
