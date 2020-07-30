@@ -10,5 +10,13 @@ Runescape Serveur FR
 Avec le crew WMAN
 Defective economy au grand marché
 
+////
+
+Join us to the
+DROP PARTY 6.30 PM (UTC +2)
+Runescape FR server
+With WMAN crex
+Defective economy at the grand marché
+
 ![]({{site.imgurl}}/dropparty.png)
 ![]({{site.imgurl}}/dropparty02.jpg)
