@@ -12,7 +12,7 @@ Defective economy au grand marché
 
 ////
 
-Join us to the
+Join us for the
 DROP PARTY 6.30 PM (UTC +2)
 Runescape FR server
 With WMAN crex
