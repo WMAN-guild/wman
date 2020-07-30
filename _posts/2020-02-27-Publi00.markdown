@@ -5,7 +5,12 @@ date:   2020-02-27 15:30:49 +0200
 categories: jekyll update
 icone: imgs/ibook.gif
 ---
-WMANNUMERO0_LINKBOOK, la première publication collective du groupe WMAN est accessible URL 🎮
-Entre cryptographie et carnet de bord, elle retrace nôtre plongée a 6 dans le monde ouvert d'URU LIVE aka MYST ONLINE ! ⚡️
+WMANNUMERO0_LINKBOOK, la première publication collective de la guilde WMAN est accessible URL 🎮
+Entre cryptographie et carnet de bord, elle retrace notre plongée a 6 dans le monde ouvert d'URU LIVE aka MYST ONLINE ! ⚡️
+
+☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️
+
+WMANNUMERO0_LINKBOOK, the first collective publication from WMAN guild is accessible URL 🎮
+Between cryptography and logbook, it retraces our 6 persons diving experience in the open world of URU LIVE aka MYST ONLINE! ⚡️
 
 <div style="text-align:center;"><iframe src="//v.calameo.com/?bkcode=002746359928b8ca6f60d&mode=mini" width="480" height="300" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe></div>
