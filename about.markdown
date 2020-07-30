@@ -20,6 +20,25 @@ Nous aimons LE JEU :
 - comme langage
 - comme lieu de rencontre
 
+☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️
+
+We choose to offer a collective experience through playing rather than focusing on any production emergency. We put the matter of having a workspace at the center of our questions by building a wild and itinerant laboratory. We think we need to design new places for artistic practice and we wonder what these places can look like. We choose to make entertainment a real workplace and to deploy ourselves both in the physical world (conference rooms, exhibition spaces, living spaces ...) and in digital spaces (games, discussion interfaces, collaboration software ...).
+
+We make games our attitude.
+
+We are a guild, an expedition force made up of artists-explorers-researchers. We take on roles and those roles are constantly changing. We are naturalists of worlds which also are constantly changing. We want to bring back elements from our travels and share them, we seek to discover new branches and to explore new paths even where this does not seem possible, we craft armors and potions as well as objects of contemplation and shapes to handle. We are cultivating a new focus on games and art to explore new relationships.
+
+An expedition must be sensitive. We take great care of our experiences. We put the way we can share them and their story before their own exploitation. We follow our plastic instincts. We keep trying, testing all the potentials. Our travel treasures are artifacts which initiate, support or nourish our reflections and which are as much objects as subjects.
+
+We love GAMES:
+- as catalysts
+- as ubiquitous entities
+- as adaptable supports
+- as languages
+- as meeting places
+
 🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕🎮🍕
 
 Arthur Debert, Alix Desaubliaux, Lucie Desaubliaux, Valentin Godard, Léo Gouhier, Carin Klonowski.
+
+
