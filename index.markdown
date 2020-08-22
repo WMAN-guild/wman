@@ -3,6 +3,22 @@ layout: home
 title: home
 icone: /imgs/imaison.gif
 ---
+WMAN is a playing, research and artistic practice group.
+
+WMAN is based on the medium of video games.
+
+Its working, demonstration and research mechanisms vary at each occurrence depending on the fields covered.
+
+WMAN is mobile. It takes place both in the physical spaces that bring its members together and in the digital spaces in which they navigate.
+
+What WMAN produces is as diverse as what it explores.
+
+WMAN builds researche, thoughts as much as plastic forms such as performance, sculpture, image or text.
+
+WMAN is made up of a core group of six artists : Arthur Debert, Alix Desaubliaux, Lucie Desaubliaux, Valentin Godard, Léo Gouhier & Carin Klonowski.
+
+![team gif]({{ site.baseurl }}/imgs/teammg.gif)
+
 WMAN est un groupe de travail, de recherche et de pratique artistique.
 
 WMAN s’appuye sur le medium du jeu vidéo.
@@ -17,18 +33,5 @@ WMAN construit de la recherche, de la réflexion autant que des formes plastique
 
 WMAN est constitué d'un noyau dur de 6 artistes : Arthur Debert, Alix Desaubliaux, Lucie Desaubliaux, Valentin Godard, Léo Gouhier & Carin Klonowski.
 
-![team gif]({{ site.baseurl }}/imgs/teammg.gif)
 
-WMAN is a playing, research and artistic practice group.
 
-WMAN is based on the medium of video games.
-
-Its working, demonstration and research mechanisms vary at each occurrence depending on the fields covered.
-
-WMAN is mobile. It takes place both in the physical spaces that bring its members together and in the digital spaces in which they navigate.
-
-What WMAN produces is as diverse as what it explores.
-
-WMAN builds researche, thoughts as much as plastic forms such as performance, sculpture, image or text.
-
-WMAN is made up of a core group of six artists : Arthur Debert, Alix Desaubliaux, Lucie Desaubliaux, Valentin Godard, Léo Gouhier & Carin Klonowski.
