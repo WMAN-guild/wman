@@ -20,8 +20,7 @@
 
 title: WMAN
 email: wmanguild@protonmail.net
-description: >- " WMAN is a playing, research and artistic practice group.
-WMAN is based on the medium of video games. "
+description: >- "WMAN is a playing, research and artistic practice group WMAN is based on the medium of video games"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wman.monster" # the base hostname & protocol for your site, e.g. http://example.com
 imgurl: "/imgs/posts"
