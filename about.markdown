@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 icone: /imgs/iabout.gif
 ---
+[EN]
 
 We choose to offer a collective experience through playing rather than focusing on any production emergency. We put the matter of having a workspace at the center of our questions by building a wild and itinerant laboratory. We think we need to design new places for artistic practice and we wonder what these places can look like. We choose to make entertainment a real workplace and to deploy ourselves both in the physical world (conference rooms, exhibition spaces, living spaces ...) and in digital spaces (games, discussion interfaces, collaboration software ...).
 
@@ -21,6 +22,8 @@ We love GAMES:
 - as meeting places
 
 ☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️
+
+[FR]
 
 Nous prenons le parti de proposer l’expérience collective par le jeu plutôt que de nous concentrer sur une quelconque urgence de production. Nous posons le lieu au centre de nos questions en fabriquant un laboratoire sauvage et itinérant. Nous pensons qu’il faut concevoir de nouveaux lieux pour la pratique artistique et nous nous demandons à quoi ces lieux peuvent ressembler. Nous choisissons de faire du divertissement un vrai lieu de travail et de nous déployer aussi bien dans le monde physique (salles de conférences, espaces d’exposition, lieux de vie...) que dans des espaces numériques (jeux, interfaces de discussions, logiciels de collaboration...).
 
