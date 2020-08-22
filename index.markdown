@@ -3,6 +3,8 @@ layout: home
 title: home
 icone: /imgs/imaison.gif
 ---
+[EN]
+
 WMAN is a playing, research and artistic practice group.
 
 WMAN is based on the medium of video games.
@@ -18,6 +20,8 @@ WMAN builds researche, thoughts as much as plastic forms such as performance, sc
 WMAN is made up of a core group of six artists : Arthur Debert, Alix Desaubliaux, Lucie Desaubliaux, Valentin Godard, Léo Gouhier & Carin Klonowski.
 
 ![team gif]({{ site.baseurl }}/imgs/teammg.gif)
+
+[FR]
 
 WMAN est un groupe de travail, de recherche et de pratique artistique.
 
