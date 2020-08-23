@@ -6,9 +6,11 @@ categories: jekyll update
 icone: imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/sun.jpg)
-
-[en]
+  
+  
 8 things to do with the WMAN crew this summer:
+  
+  
 
 - watching the stars late at night: [Star Catchers](https://wedgiebee.itch.io/starcatchers)
 
@@ -24,22 +26,25 @@ icone: imgs/icoeur.gif
 
 - Taking care of environment: [Alone on the Rocky Beach](https://noroadhome.itch.io/alone-on-the-rocky)
 
-- "gathering coconuts"...: !!!!NSFW!!!!! [Coconut Quest, a gay adventure](https://zackk.itch.io/coconut-quest-a-gay-adventure)
+- "gathering coconuts"...: !!!!NSFW!!!!! [Coconut Quest, a gay adventure](https://zackk.itch.io/coconut-quest-a-gay-adventure). 
 
 
 
 <3
+  
 Sunny kisses*
+  
 
-
+  
 /
 /
 /
 /
-
-[fr]
+  
+  
 8 choses à faire avec WMAN cet été :
 
+  
 
 - regarder les étoiles tard le soir : [Star Catchers](https://wedgiebee.itch.io/starcatchers)
 
@@ -56,9 +61,9 @@ Sunny kisses*
 - Faire attention à l'environnement : [Alone on the Rocky Beach](https://noroadhome.itch.io/alone-on-the-rocky)
 
 - "ramasser des noix de coco"... : !!!!NSFW!!!!! [Coconut Quest, a gay adventure](https://zackk.itch.io/coconut-quest-a-gay-adventure)
-
-
-
-
+  
+    
 <3
+  
 Bisous ensoleillés !
+
