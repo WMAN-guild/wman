@@ -7,7 +7,7 @@ icone: imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/sun.jpg)
 
-
+[en]
 8 things to do with the WMAN crew this summer:
 
 - watching the stars late at night: [Star Catchers](https://wedgiebee.itch.io/starcatchers)
@@ -32,8 +32,12 @@ icone: imgs/icoeur.gif
 Sunny kisses*
 
 
-///
+/
+/
+/
+/
 
+[fr]
 8 choses à faire avec WMAN cet été :
 
 
