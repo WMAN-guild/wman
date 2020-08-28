@@ -6,10 +6,12 @@ icone: /imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/DRAGON7.gif)
 
-In mai 2019, We joined all as one dragon entity on the social platform Second life.
+In mai 2019, We joined all as one dragon entity on the online social platform **Second life**.
 We have been remaking it, regularily and in multiple other games since.  
   
-*En mai 2019, nous nous rassemblions pour pouvoir être un dragon tous ensemble.*
+*En mai 2019, nous nous sommes tous rassemblé en un seul et unique dragon  
+sur la plateforme sociale en ligne ***Second Life***.    
+Depuis, nous avons régulièrement reproduit le même geste dans de nombreux autres jeux.*
 
 ![]({{site.imgurl}}/dragon1.gif)
 ![]({{site.imgurl}}/dragon 5.gif)
