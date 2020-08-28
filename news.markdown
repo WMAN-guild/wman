@@ -17,5 +17,5 @@ date to be anounced soon here, visible in game and live on twich
 
   
 ***POSTPONED PROJECTS :***  
-**- workshop and peformative lecture,**
+**- workshop and peformative lecture,**  
 @ ESACM - École Supérieure d'Art de Clermont Métropole, 2021
