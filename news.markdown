@@ -5,17 +5,17 @@ permalink: /news/
 icone: /imgs/inews.gif
 ---
 
-Upcoming projects :
-- Growing Our Networks in Uncertain Times <-> Places,  
+***UPCOMING PROJECTS :***
+**- Growing Our Networks in Uncertain Times <-> Places,**  
 online festival @ https://ournetworks.ca/, 8-12 september 2020
 
   
-Promised projects :
-- Dino parade @ Kara's Xplay Isla Nublar (7) [Cluster] in the game ARK 
+***PROMISED PROJECTS :***
+**- Dino parade @ Kara's Xplay Isla Nublar (7) [Cluster]** in the game ARK 
 available on Apple and Windows via EPIC store & Steam games,  
 date to be anounced soon here, visible in game and live on twich 
 
   
-Postponed projects :
-- workshop and peformative lecture,  
+***POSTPONED PROJECTS :***
+**- workshop and peformative lecture,**
 @ ESACM - École Supérieure d'Art de Clermont Métropole, 2021
