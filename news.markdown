@@ -11,8 +11,8 @@ online festival @ https://ournetworks.ca/, 8-12 september 2020
 
   
 ***PROMISED PROJECTS :***  
-**- Dino parade @ Kara's Xplay Isla Nublar (7) [Cluster]** in the game ARK 
-available on Apple and Windows via EPIC store & Steam games,  
+**- Dino parade @ Kara's Xplay Isla Nublar (7) [Cluster]**  
+in the game ARK available on Apple and Windows via EPIC store & Steam games,  
 date to be anounced soon here, visible in game and live on twich 
 
   
