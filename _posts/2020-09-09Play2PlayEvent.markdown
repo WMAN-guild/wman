@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Play2Play
-date:   2019-06-26 15:30:49 +0200
+date:   2020-09-09 15:30:49 +0200
 icone: /imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/hub1.jpg)
