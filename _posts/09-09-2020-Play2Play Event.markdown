@@ -24,3 +24,5 @@ The COLLABORATIVE CREATIVE SPACE :
 
 Digital visit of the COLLABORATIVE CREATIVE SPACE:
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/DjS6Imn9TGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![]({{site.imgurl}}/drink.gif)
