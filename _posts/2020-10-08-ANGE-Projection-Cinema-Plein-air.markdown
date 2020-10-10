@@ -12,12 +12,12 @@ Above the spawn point, at the right of the theater !
 The second meeting of the evening was at Romain Gandolphe's digital museum where he presented us an amazing performance and visit of his work. He made a 
 
 The Movie :
-![]({{site.imgurl}}/CINE.jpg)
+![]({{site.imgurl}}/CINE.png)
 
 Romain's Museum :
-![]({{site.imgurl}}/rom1.jpg)
-![]({{site.imgurl}}/rom2.jpg)
-![]({{site.imgurl}}/rom3.jpg)
+![]({{site.imgurl}}/rom1.png)
+![]({{site.imgurl}}/rom2.png)
+![]({{site.imgurl}}/rom3.png)
 
 VIDEO Archive of Romain Gandolphe's performance:
 <iframe width="100%" height="480" src="LIEN YOUTUBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
