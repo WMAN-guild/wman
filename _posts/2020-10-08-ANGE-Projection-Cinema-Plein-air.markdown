@@ -4,9 +4,8 @@ title: Projection Cinéma en plein air de ANGE (Fleuryfontaine) et visite du mus
 date:   2020-08-10 15:30:49 +0200
 icone: /imgs/icoeur.gif
 ---
-On our manyland hub we build an open air cinema and made a projection of the movie ANGE (https://fleuryfontaine.fr/ange/) from FleuryFontaine artistic duo. 
-RDV at 9.PM at WMAN's open air cinema 
-http://manyland.com/wmanbuild/
+On our manyland hub we build an open air cinema and made a projection of the movie [ANGE](https://fleuryfontaine.fr/ange/) from FleuryFontaine artistic duo. 
+RDV at 9.PM at [WMAN's open air cinema](http://manyland.com/wmanbuild/)
 Above the spawn point, at the right of the theater ! 
 
 The second meeting of the evening was at Romain Gandolphe's digital museum where he presented us an amazing performance and visit of his work. He made a 
