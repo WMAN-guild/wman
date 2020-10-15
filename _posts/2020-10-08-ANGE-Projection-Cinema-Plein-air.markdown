@@ -2,6 +2,7 @@
 layout: post
 title: Projection Cinéma en plein air de ANGE (Fleuryfontaine) et visite du musée virtuel de Romain Gandolphe
 date:   2020-08-10 15:30:49 +0200
+categories: évènement
 icone: /imgs/icoeur.gif
 ---
 On our manyland hub we build an open air cinema and made a projection of the movie [ANGE](https://fleuryfontaine.fr/ange/) from FleuryFontaine artistic duo. 
