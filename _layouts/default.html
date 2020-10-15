@@ -36,11 +36,12 @@
 		
 		
 		{%- if site.posts.size > 0 -%}
-			 {%- for post in site.posts -%}   
+			 {%- for post in site.posts -%} 
+				{%- if post.category = 'game' -%}
 				  <a class="post-link" href="{{ post.url | relative_url }}">
-					<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
+					<img class="icone-post" src="{{site.icourl | relative_url}}/igame.gif" alt="">
 				  </a>
-		
+				{%- endif -%}
 			{% endfor %}
 		{%- endif -%}
 		</div>
