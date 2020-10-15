@@ -39,7 +39,7 @@
   			<a class="post-link" href="{{ post.url | relative_url }}">
 			<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
 			</a>
-			<span class="infobulle" aria-label="texte de l'infobulle">Choucroute</span>
+			<span class="infobulle" aria-label={{ post.categories }} / {{ post.title }}></span>
 			{% endfor %}
 			</div>
 			
@@ -49,7 +49,7 @@
   			<a class="post-link" href="{{ post.url | relative_url }}">
 			<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
 			</a>
-			<span class="infobulle" aria-label="infobulle">{{ post.categories }} / {{ post.title }}</span>
+			<span class="infobulle" aria-label={{ post.categories }} / {{ post.title }}></span>
 			{% endfor %}
 			</div>
 			
@@ -59,7 +59,7 @@
   			<a class="post-link" href="{{ post.url | relative_url }}">
 			<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
 			</a>
-			<span class="infobulle" aria-label="infobulle">{{ post.categories }} / {{ post.title }}</span>
+			<span class="infobulle" aria-label={{ post.categories }} / {{ post.title }}></span>
 			{% endfor %}
 			</div>
 		</div>
