@@ -118,12 +118,10 @@ width:100%;}
 
 .infobulle {
   position: relative;  /* les .infobulle deviennent référents */
-	display:none;
 }
 
 .infobulle:hover:after,
 .infobulle:focus:after {
-	display:auto;
   content: attr(aria-label);  /* on affiche aria-label */
   position: absolute;
   top: -2.4em;
