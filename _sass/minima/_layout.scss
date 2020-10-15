@@ -121,8 +121,8 @@ width:100%;}
 	display:none;
 }
 
-.infobulle:hover::after,
-.infobulle:focus::after {
+.infobulle:hover:after,
+.infobulle:focus:after {
 	display:auto;
   content: attr(aria-label);  /* on affiche aria-label */
   position: absolute;
