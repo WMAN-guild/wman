@@ -37,10 +37,20 @@
 		
 		{%- if site.posts.size > 0 -%}
 		
-			  {%- for post in site.posts -%}   
+			  {%- for post in site.posts -%}  
+				{%- if post.icone ="/imgs/icoeur.gif" -%}
 				  <a class="post-link" href="{{ post.url | relative_url }}">
 					<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
 				  </a>
+				{%- elsif post.icone ="/imgs/ibook.gif" -%}
+				<a class="post-link" href="{{ post.url | relative_url }}">
+					<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
+				  </a>
+				{%- elsif post.icone ="/imgs/igame.gif" -%}
+				<a class="post-link" href="{{ post.url | relative_url }}">
+					<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
+				  </a>
+				{%- endif -%}
 			  {%- endfor -%}
 		{%- endif -%}
 		</div>
