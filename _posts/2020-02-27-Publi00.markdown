@@ -3,7 +3,7 @@ layout: post
 title:  "WMANNUMERO00_LINKBOOK"
 date:   2020-02-27 15:30:49 +0200
 categories: book
-icone: imgs/ibook.gif
+icone: /imgs/ibook.gif
 ---
 
 WMANNUMERO0_LINKBOOK, the first collective publication from WMAN guild is accessible URL 🎮
