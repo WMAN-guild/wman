@@ -33,16 +33,32 @@
 		</label>
 		
 		<div class="inventaire">
-		
-		
-
-			
-		{% assign sorted-posts = site.posts | where: "icone","/imgs/icoeur.gif" %}
+			{% assign sorted-posts = site.posts | where: "icone","/imgs/icoeur.gif" %}
+			<div class="post-cat">
 			{% for post in sorted-posts %}
   			<a class="post-link" href="{{ post.url | relative_url }}">
-					<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
-				  </a>
-		{% endfor %}
+			<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
+			</a>
+			{% endfor %}
+			</div>
+			
+			{% assign sorted-posts = site.posts | where: "icone","/imgs/ibook.gif" %}
+			<div class="post-cat">
+			{% for post in sorted-posts %}
+  			<a class="post-link" href="{{ post.url | relative_url }}">
+			<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
+			</a>
+			{% endfor %}
+			</div>
+			
+			{% assign sorted-posts = site.posts | where: "icone","/imgs/igame.gif" %}
+			<div class="post-cat">
+			{% for post in sorted-posts %}
+  			<a class="post-link" href="{{ post.url | relative_url }}">
+			<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
+			</a>
+			{% endfor %}
+			</div>
 		</div>
 	</div>	
 	
