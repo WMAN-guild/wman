@@ -3,6 +3,7 @@ layout: post
 title:  "Concrete Stuff"
 date:   2020-06-11 15:30:49 +0200
 categories: game
+icone: /imgs/igame.gif
 ---
 Work in progress - trying to find a good ending for our tremendous scenario 💪☀️
 Soon online
