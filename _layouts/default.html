@@ -36,12 +36,17 @@
 		
 		
 		{%- if site.posts.size > 0 -%}
-		
-			 {%- for post in site.posts -%}   
-				  <a class="post-link" href="{{ post.url | relative_url }}">
-					<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
+			{% assign sorted_cats = site.categories | sort: 'icone' %}
+			{% for category in sorted_cats %}
+			{% assign sorted_posts = category[1] %}
+
+  			{% for post in sorted_posts %}
+				 <a class="post-link" href="{{ post.url | relative_url }}">
+				<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
 				  </a>
-			  {%- endfor -%}
+ 			 {% endfor %}
+		
+			{% endfor %}
 		{%- endif -%}
 		</div>
 		</div>
