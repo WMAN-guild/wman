@@ -35,14 +35,7 @@
 		<div class="inventaire">
 		
 		
-		{%- if site.posts.size > 0 -%}
-		
-			  {%- for post in site.posts -%}   
-				  <a class="post-link" href="{{ post.url | relative_url }}">
-					<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
-				  </a>
-			  {%- endfor -%}
-		{%- endif -%}
+
 			
 		{% assign sorted-posts = site.posts | where: "icone","/imgs/icoeur.gif" %}
 			{% for post in sorted-posts %}
