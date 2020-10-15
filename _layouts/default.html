@@ -35,15 +35,15 @@
 		<div class="inventaire">
 		
 		
-		{%- if site.posts.size > 0 -%}
-			 {%- for post in site.posts -%} 
-				{%- if post.category = 'game' -%}
-				  <a class="post-link" href="{{ post.url | relative_url }}">
-					<img class="icone-post" src="{{site.icourl | relative_url}}/igame.gif" alt="">
-				  </a>
-				{%- endif -%}
-			{% endfor %}
-		{%- endif -%}
+		{% assign sorted_cats = site.categories | sort: 'categories' %}
+{% for category in sorted_cats %}
+{% assign sorted_posts = category[1] | reversed %}
+<h2 id="{{category[0] | uri_escape | downcase }}">{{category[0] | capitalize}}</H2>
+<ul>
+  {% for post in sorted_posts %}
+ 	<li><a href="{{ site.url }}{{ site.baseurl }}{{  post.url }}">{{  post.title }}</a></li>
+  {% endfor %}
+</ul>
 		</div>
 		</div>
 	</div>	
