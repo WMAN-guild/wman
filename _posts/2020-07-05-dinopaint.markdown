@@ -3,7 +3,7 @@ layout: post
 title:  Exposition pour dinosaures
 date:   2020-07-05 18:30:49 +0200
 categories: jekyll update
-icone: imgs/icoeur.gif
+icone: /imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/Capture d’écran (148).png)
 ![]({{site.imgurl}}/Capture d’écran (147).png)
