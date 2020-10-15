@@ -2,7 +2,7 @@
 layout: post
 title:  "Wmanyland"
 date:   2020-08-22 15:30:49 +0200
-categories: jekyll update
+categories: game
 icone: /imgs/igame.gif
 ---
 Work in progress - mini serie of our adventures in Manyland !  
