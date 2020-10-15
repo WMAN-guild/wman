@@ -2,6 +2,7 @@
 layout: post
 title: Enter the Dragon - Online Performance
 date:   2019-06-26 15:30:49 +0200
+categories: évènement
 icone: /imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/DRAGON7.gif)
