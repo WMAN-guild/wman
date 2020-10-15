@@ -2,7 +2,7 @@
 layout: post
 title:  «SUMMERPARTY»
 date:   2020-07-28 18:30:49 +0200
-categories: jekyll update
+categories: évènement
 icone: /imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/sun.jpg)
