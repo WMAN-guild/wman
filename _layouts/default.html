@@ -37,9 +37,8 @@
 			<div class="post-cat">
 			{% for post in sorted-posts %}
   			<a class="post-link" href="{{ post.url | relative_url }}">
-			<img class="icone-post" src="{{ post.icone | relative_url }}" alt="">
+			<img class="icone-post" src="{{ post.icone | relative_url }}" alt=""><span class="infobulle" aria-label="{{ post.categories }} / {{ post.title }}"></span>
 			</a>
-			<span class="infobulle" aria-label="{{ post.categories }} / {{ post.title }}"></span>
 			{% endfor %}
 			</div>
 			
