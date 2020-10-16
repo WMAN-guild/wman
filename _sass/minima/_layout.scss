@@ -122,13 +122,15 @@ width:100%;}
 
 .infobulle:hover:after,
 .infobulle:focus:after {
-  content: attr(aria-label);  /* on affiche aria-label */
+  content: attr(aria-label);
   position: absolute;
-  top: -2.4em;
+  top: -2.6em;
   left: 50%;
-  transform: translateX(-50%); /* on centre horizontalement  */
-  z-index: 1; /* pour s'afficher au dessus des éléments en position relative */
-  white-space: nowrap;  /* on interdit le retour à la ligne */
+  transform: translateX(-50%);
+  z-index: 1;
+  white-space: nowrap;
+	background:#9ec6e4;
+		border-radius:2px;
 }
 
 
