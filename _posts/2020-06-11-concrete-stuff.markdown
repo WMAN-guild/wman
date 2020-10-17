@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Concrete Stuff"
+titre-court: Concrete Stuff
 date:   2020-06-11 15:30:49 +0200
 categories: game
 icone: /imgs/igame.gif
