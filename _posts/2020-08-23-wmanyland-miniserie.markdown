@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Wmanyland"
+titre-court: Wmanyland
 date:   2020-08-22 15:30:49 +0200
 categories: game
 icone: /imgs/igame.gif
