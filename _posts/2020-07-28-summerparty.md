@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  «SUMMERPARTY»
+titre-court: Summerparty
 date:   2020-07-28 18:30:49 +0200
-categories: évènement
+categories: event
 icone: /imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/sun.jpg)
