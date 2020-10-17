@@ -124,7 +124,7 @@ width:100%;}
 .infobulle:focus:after {
   content: attr(aria-label);
   position: absolute;
-  top: -2.6em;
+  top: -2em;
   left: 50%;
   transform: translateX(-50%);
   z-index: 1;
