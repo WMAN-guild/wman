@@ -1,7 +1,7 @@
 ---
 layout: page
 title: contact
-permalink: /contact/
+permalink: /contact
 icone: /imgs/icontact.gif
 ---
 
