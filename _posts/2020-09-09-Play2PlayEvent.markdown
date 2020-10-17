@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Play2Play
+titre-court: Play2Play
 date:   2020-09-09 15:30:49 +0200
-categories: évènement
+categories: event
 icone: /imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/hub1.jpg)
