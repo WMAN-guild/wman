@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  Exposition pour dinosaures
+titre-court: Dino Expo
 date:   2020-07-05 18:30:49 +0200
-categories: évènement
+categories: event
 icone: /imgs/icoeur.gif
 ---
 ![]({{site.imgurl}}/Capture d’écran (148).png)
