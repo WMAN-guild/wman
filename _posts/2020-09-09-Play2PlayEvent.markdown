@@ -28,3 +28,11 @@ Digital visit of the COLLABORATIVE CREATIVE SPACE:
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/DjS6Imn9TGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![]({{site.imgurl}}/drink.gif)
+
+our homemade video tutorials to using manyland:
+MOVE
+<iframe width="100%" height="480" src="https://www.youtube.com/watch?v=qqEjWyBIBm0&t=21s&ab_channel=wmanguild" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+BUILD
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/w9QzxSi-NdY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+BEFRIEND
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/ltOaDbNiJKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
