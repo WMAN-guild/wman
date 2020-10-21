@@ -14,4 +14,4 @@ Soon online
 ![Concrete Stuff - the Game]({{ site.imgurl }}/concrete03.jpg)
 
 gameplay demo:
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/Nv1SXL5jB0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/Nv1SXL5jB0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
