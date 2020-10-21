@@ -15,5 +15,8 @@ You'll find there some pieces of our intimate exchanges about our shared passion
 Vous y trouverez une partie de nos échanges intimes sur notre passion commune : les dragons️ 🐉
 
 
-
-<div style="text-align:center;"><iframe src="//v.calameo.com/?bkcode=002746359dca6de385ec4&mode=mini" width="480" height="300" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe></div>
+<object data="http://wman.monster/imgs/posts/DragonO_web.pdf" type="application/pdf" width="650px" height="550px">
+    <embed src="http://wman.monster/imgs/posts/DragonO_web.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://wman.monster/imgs/posts/DragonO_web.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
