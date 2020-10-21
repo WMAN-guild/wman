@@ -17,4 +17,4 @@ In mai 2019, We joined all as one dragon entity on the online social platform Se
 ![]({{site.imgurl}}/DRAGON6.gif)
 
 5min cross-platform performance on manyland :
-<iframe width="100%" height="370" src="https://www.youtube.com/embed/ch5wdkPtCaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/ch5wdkPtCaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
