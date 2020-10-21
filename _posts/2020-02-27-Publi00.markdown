@@ -17,7 +17,7 @@ WMANNUMERO0_LINKBOOK, la première publication collective de la guilde WMAN est 
 Entre cryptographie et carnet de bord, elle retrace notre plongée a 6 dans le monde ouvert d'URU LIVE aka MYST ONLINE ! ⚡️
 
 
-<object data="http://wman.monster/imgs/posts/linkbook_web2.pdf" type="application/pdf" width="650px" height="500px">
+<object data="http://wman.monster/imgs/posts/linkbook_web2.pdf" type="application/pdf" width="650px" height="550px">
     <embed src="http://wman.monster/imgs/posts/linkbook_web2.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://wman.monster/imgs/posts/linkbook_web2.pdf">Download PDF</a>.</p>
     </embed>
