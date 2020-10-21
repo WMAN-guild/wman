@@ -6,7 +6,7 @@ icone: /imgs/inews.gif
 ---
 ***LAST NEWS :***
 
-**- October 14th** : WMAN is in **N. Frespech's Papillote** "Comment on exposait avant ? Episode 3" (to subscribe to the papillote -- in FR -- : https://tinyletter.com/Papillote)
+**- October 14th** : WMAN is in **N. Frespech's Papillote** "Comment on exposait avant ? Episode 3" (to subscribe to the papillote -- in FR -- : https://tinyletter.com/Papillote)  
 **- October 15th** : Valentin Godard was invited by **La Playade** to speak about his work and WMAN's ! It's here -- in FR -- : https://soundcloud.com/user-685502308/la-playade-39-octobre-2020-avec-lartiste-valentin-godard-du-collectif-wman
 
 
