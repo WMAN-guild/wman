@@ -6,4 +6,8 @@ icone: /imgs/icontact.gif
 ---
 Contact : wmanguild (at) protonmail (dot) com
 
-[Facebook](https://www.facebook.com/WMANguild/)
+
+[on instagram](https://www.instagram.com/wman_guild/)
+[on facebook](https://www.facebook.com/WMANguild/)
+
+
