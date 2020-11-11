@@ -15,7 +15,7 @@ WMAN is mobile. It takes place both in the physical spaces that bring its member
 
 What WMAN produces is as diverse as what it explores.
 
-WMAN builds researche, thoughts as much as plastic forms such as performance, sculpture, image or text.
+WMAN builds researchs, thoughts as much as plastic forms such as performance, sculpture, image or text.
 
 WMAN is made up of a core group of six artists : Arthur Debert, Alix Desaubliaux, Lucie Desaubliaux, Valentin Godard, Léo Gouhier & Carin Klonowski.
 
