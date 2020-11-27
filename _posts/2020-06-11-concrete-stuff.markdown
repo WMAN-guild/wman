@@ -1,17 +1,9 @@
 ---
 layout: post
 title:  "Concrete Stuff"
-titre-court: Concrete Stuff
-date:   2020-06-11 15:30:49 +0200
-categories: game
-icone: /imgs/igame.gif
+date:   2020-06-11 10:12:37 +0200
+categories: WMAN jeux wip
+type: game
 ---
-Work in progress - trying to find a good ending for our tremendous scenario 💪☀️
-Soon online
-
-![Concrete Stuff - the Game]({{ site.imgurl }}/concrete01.png)
-![Concrete Stuff - the Game]({{ site.imgurl }}/concrete02.jpg)
-![Concrete Stuff - the Game]({{ site.imgurl }}/concrete03.jpg)
-
-gameplay demo:
-<iframe width="100%" height="360" src="https://www.youtube.com/embed/Nv1SXL5jB0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+WIP // A WMAN game about Concrete Stuff (comme couper du fromage et du jambon)
+<img class="photopost" src="{{site.baseurl}}/imgs/concretestuff.gif" onmouseover="this.src='{{site.baseurl}}/imgs/concretestuff.jpg'" onmouseout="this.src='{{site.baseurl}}/imgs/concretestuff.gif'" />
