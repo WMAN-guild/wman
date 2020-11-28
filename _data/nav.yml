@@ -1,9 +1,0 @@
-- text: Journal
-  place: header
-  url: /
-- text: Travaux
-  place: header
-  url: /travaux/
-- text: Tout
-  place: droite
-  url: /
