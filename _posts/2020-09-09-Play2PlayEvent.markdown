@@ -34,8 +34,10 @@ Our homemade video tutorials to learn how to use manyland:
 MOVE
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/qqEjWyBIBm0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
+  
 BUILD
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/w9QzxSi-NdY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+ 
+ 
 LOVE
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/ltOaDbNiJKU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
