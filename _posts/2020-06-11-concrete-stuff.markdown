@@ -8,7 +8,8 @@ icone: /imgs/igame.gif
 ---
 Work in progress - trying to find a good ending for our tremendous scenario 💪☀️
 
-Version pre-pre-pre-alpha available here : https://wmanguild.itch.io/concretestuff-ham-and-cheese-version Enjoy and don't forget to be your most concrete self !
+Version pre-pre-pre-alpha available on [itch.io](https://wmanguild.itch.io/concretestuff-ham-and-cheese-version)
+Enjoy and don't forget to always be your most concrete self !
 
 ![Concrete Stuff - the Game]({{ site.imgurl }}/concrete01.png)
 ![Concrete Stuff - the Game]({{ site.imgurl }}/concrete02.jpg)
