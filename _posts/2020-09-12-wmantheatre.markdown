@@ -2,7 +2,7 @@
 layout: post
 title: WMAN theatre
 titre-court: Theatre
-date:   2020-12-09 15:30:49 +0200
+date:   2020-09-12 15:30:49 +0200
 categories: event
 icone: /imgs/icoeur.gif
 ---
