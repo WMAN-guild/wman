@@ -13,7 +13,7 @@ icone: /imgs/icoeur.gif
 
 **ENG**
 
-For the closing event of OurNetworks festival we built a theatre within our [creative area](/Play2PlayEvent/), previously set up in *Manyland*. 
+For the closing event of OurNetworks festival we built a theatre within our [creative area](http://wman.monster/event/2020/09/09/Play2PlayEvent.html), previously set up in *Manyland*. 
 During the 4 days of the festival, we created theatre characters by designing avatars and skins along with their associated emotes and moves,
 as well as some chat bots to interact with. In the evening, improvisation battles were organised between players wearing the previously 
 created costumes and the bots. The skins were shuffled and the battling bots were picked up randomly. The public was active and invited 
@@ -23,7 +23,7 @@ and to put on the scenery for each improvisation battle while disguised in curta
 
 **FR**
 
-Pour le finissage du festival Ournetworks nous avons construit un théâtre dans l'[espace créatif](/Play2PlayEvent/) que nous avons créé dans *Manyland*.
+Pour le finissage du festival Ournetworks nous avons construit un théâtre dans l'[espace créatif](http://wman.monster/event/2020/09/09/Play2PlayEvent.html) que nous avons créé dans *Manyland*.
 Pendant les quatre jours du festival, nous avons créé des personnages de théâtre en dessinant des avatars et des skins avec les emotes et les gestes qui
 y étaient associés, ainsi que des chatbots avec lesquels intéragir. Le soir du finissage, des batailles d'impro ont été organisées entre les joueurs
 qui portaient ces costumes et les bots. Les skins à revêtir et les bots à affronter étaient choisis au hasard. Le public présent dans *Manyland* était invité à 
