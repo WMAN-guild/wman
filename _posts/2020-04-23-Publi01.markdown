@@ -6,13 +6,14 @@ date:   2020-04-23 15:30:49 +0200
 categories: book
 icone: /imgs/ibook.gif
 ---
-BOOK
 
-🐲 WMANNUMERO1_DRAGON, the second collective publication from WMAN guild is accessible online ! 
-You'll find there some pieces of our intimate exchanges about our shared passion : dragons 🐉
+**ENG**
 
-🐲 WMANNUMERO1_DRAGON, la seconde publication collective du groupe WMAN est accessible en ligne ! 
-Vous y trouverez une partie de nos échanges intimes sur notre passion commune : les dragons️ 🐉
+*DRAGON*, the second collective publication from WMAN guild is accessible in URL and IRL versions. This publication is the result of our passionate and intimate exchanges about our shared passion: dragons.
+
+**FR**
+
+*DRAGON*, la deuxième publication collective de la WMAN guilde, est accessible en versions numérique et imprimée. CEtte publication est le résultat de nos échanges passionnées et intimes autour de notre passion partagée : les dragons.
 
 
 <object data="http://wman.monster/imgs/posts/DragonO_web.pdf#view=FitH" type="application/pdf" width="100%" height="550px">
