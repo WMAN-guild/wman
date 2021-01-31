@@ -6,6 +6,8 @@ date:   2020-08-22 15:30:49 +0200
 categories: game
 icone: /imgs/igame.gif
 ---
+*Mini-series, 4 episodes, in Manyland, 2020*
+
 **ENG**
 
 Our crazy adventures in *Manyland* are now gathered in mini web-series on Youtube. You can follow there our discoveries about *Manyland* which led us to our [Play2Play event during Ournetwork Festival](/Play2PlayEvent/).
