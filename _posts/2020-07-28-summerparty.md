@@ -6,10 +6,12 @@ date:   2020-07-28 18:30:49 +0200
 categories: event
 icone: /imgs/icoeur.gif
 ---
+*A summer list of indie games we loved*
+
 ![]({{site.imgurl}}/sun.jpg)
   
   
-8 things to do with the WMAN crew this summer:
+8 things to do with the WMAN guild this summer:
   
   
 
