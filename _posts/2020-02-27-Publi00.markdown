@@ -7,15 +7,13 @@ categories: book
 icone: /imgs/ibook.gif
 ---
 
-WMANNUMERO0_LINKBOOK, the first collective publication from WMAN guild is accessible URL 🎮
-Between cryptography and logbook, it retraces our 6 persons diving experience in the open world of URU LIVE aka MYST ONLINE! ⚡️
+**ENG**
 
-☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️💥☄️
+*LINKBOOK* is the first collective publication from the WMAN guild. It is the result of a 10-day residency we had in the Labo NRV in Lyon, where we spent many hours playing *URU online*, an MMMORPG sequel of *Myst*. Between cryptography and logbook, it retraces our 6 persons diving experience in this open world.
 
+**FR**
 
-WMANNUMERO0_LINKBOOK, la première publication collective de la guilde WMAN est accessible URL 🎮
-Entre cryptographie et carnet de bord, elle retrace notre plongée a 6 dans le monde ouvert d'URU LIVE aka MYST ONLINE ! ⚡️
-
+*LINKBOOK* est la première publication collective de la WMAN guilde. C'est le résultat d'une résidence de 10 jours que nous avons passée dans le LAbo NRV de Lyon et durant laquelle nous avons passé de nombreuses heures à jouer à *URU online*, un suite MMORPG de *Myst*. Entre cryptographie et journal de voyage, elle retrace notre plongée à 6 personnes au sein ce monde ouvert.
 
 <object data="http://wman.monster/imgs/posts/linkbook_web2.pdf" type="application/pdf" width="100%" height="550px">
     <embed src="http://wman.monster/imgs/posts/linkbook_web2.pdf">
