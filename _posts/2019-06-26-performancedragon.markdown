@@ -23,7 +23,7 @@ icone: /imgs/icoeur.gif
 *Enter the Dragon in Second Life, 2019*
 ![]({{site.imgurl}}/dragon 5.gif)
 *Enter the Dragon in Second Life, 2019*
-![]({{site.imgurl}}/DRAGON6.gif)
+![]({{site.imgurl}}/dragon6.gif)
 *Enter the Dragon in Second Life, 2019*
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/ch5wdkPtCaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *5min cross-platform performance on manyland, 2020*
