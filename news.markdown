@@ -8,11 +8,6 @@ icone: /imgs/inews.gif
 
 **- April 1st 22 ** : WMAN has been interviewed by Licia Demuro for Conforme Magazine. We are speaking about Robinson Crusoe, the capitalist machine, temporary citizenship et dinosaurs in that particular order! [click here](https://www.conformemagazine.com/post/wman-guild-le-collectif-d-artistes-qui-s-empare-du-jeu-vid%C3%A9o)
   
-**- October 15th** : Valentin Godard was invited by **La Playade** to speak about his work and WMAN's ! It's here -- in FR -- :  
-[écouter l'émission sur le soundcloud de La Playade.](https://soundcloud.com/user-685502308/la-playade-39-octobre-2020-avec-lartiste-valentin-godard-du-collectif-wman)
-
-
-
 ***LAST PROJECTS :***  
 **- été automne dragon et hiver**
 Co-creative workshop, IRL at Octopus cooperative and online in our favourite numeric place, Manyland !
