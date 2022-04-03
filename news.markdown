@@ -11,12 +11,14 @@ icone: /imgs/inews.gif
 ***LAST PROJECTS :***  
 **- été automne dragon et hiver**
 Co-creative workshop, IRL at Octopus cooperative and online in our favourite numeric place, Manyland !
+
 **- Furcadian Nights**
 Our polyphonic play has been published in Immersion #06, Frontiers! (To order the magazine, click here)[https://immersion-revue.fr/numeros/immersion-6-frontieres/]
 
   
 ***PROMISED PROJECTS :***  
 **- a WMAN collecting card booster ©** will be featured in the riso+quadri printed revue SPEKTRUM CRUSH IV :dragon: next to a long list of super cool other players! 
+
 **- Dino parade @ Kara's Xplay Isla Nublar (7) [Cluster]**  
 in the game ARK available on Apple and Windows via EPIC store & Steam games,  
 date to be anounced soon here, visible in game and live on twich 
