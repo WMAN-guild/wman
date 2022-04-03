@@ -6,7 +6,7 @@ icone: /imgs/inews.gif
 ---
 ***LAST NEWS :***
 
-**- October 14th** : WMAN is in **N. Frespech's Papillote** "Comment on exposait avant ? Episode 3" (to subscribe to the papillote in FR : [click here](https://tinyletter.com/Papillote)
+**- April 1st 22 ** : WMAN has been interviewed by Licia Demuro for Conforme Magazine. We are speaking about Robinson Crusoe, the capitalist machine, temporary citizenship et dinosaurs in that particular order! [click here](https://www.conformemagazine.com/post/wman-guild-le-collectif-d-artistes-qui-s-empare-du-jeu-vid%C3%A9o)
   
 **- October 15th** : Valentin Godard was invited by **La Playade** to speak about his work and WMAN's ! It's here -- in FR -- :  
 [écouter l'émission sur le soundcloud de La Playade.](https://soundcloud.com/user-685502308/la-playade-39-octobre-2020-avec-lartiste-valentin-godard-du-collectif-wman)
@@ -14,21 +14,16 @@ icone: /imgs/inews.gif
 
 
 ***LAST PROJECTS :***  
-**- Growing Our Networks in Uncertain Times <-> Places,**  
-online festival @ [https://ournetworks.ca/](https://ournetworks.ca/), 8-12 september 2020
-Unofficial backrooms : [WMAN HUB](http://manyland.com/wmanhub)
-- Opening night 19h UTC+2, 9 september
-- Permanence : From 17h to 22h UTC+2 10-11 september
-- Closing event : 19h UTC+2, in the theatre : impro fight bot VS human
+**- été automne dragon et hiver**
+Co-creative workshop, IRL at Octopus cooperative and online in our favourite numeric place, Manyland !
+**- Furcadian Nights**
+Our polyphonic play has been published in Immersion #06, Frontiers! (To order the magazine, click here)[https://immersion-revue.fr/numeros/immersion-6-frontieres/]
 
   
 ***PROMISED PROJECTS :***  
 **- Dino parade @ Kara's Xplay Isla Nublar (7) [Cluster]**  
 in the game ARK available on Apple and Windows via EPIC store & Steam games,  
 date to be anounced soon here, visible in game and live on twich 
-
-**- Something about Dreams**
-in Furrcadia
 
   
 ***POSTPONED PROJECTS :***  
