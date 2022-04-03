@@ -6,7 +6,7 @@ icone: /imgs/inews.gif
 ---
 ***LAST NEWS :***
 
-**- April 1st 22 ** : WMAN has been interviewed by Licia Demuro for Conforme Magazine. We are speaking about Robinson Crusoe, the capitalist machine, temporary citizenship et dinosaurs in that particular order! [click here](https://www.conformemagazine.com/post/wman-guild-le-collectif-d-artistes-qui-s-empare-du-jeu-vid%C3%A9o)
+**- April 1st 22** : WMAN has been interviewed by Licia Demuro for Conforme Magazine. We are speaking about Robinson Crusoe, the capitalist machine, temporary citizenship et dinosaurs in that particular order! [click here](https://www.conformemagazine.com/post/wman-guild-le-collectif-d-artistes-qui-s-empare-du-jeu-vid%C3%A9o)
   
 ***LAST PROJECTS :***  
 **- été automne dragon et hiver**
