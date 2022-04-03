@@ -13,7 +13,7 @@ order: 3
 
 **- été automne dragon et hiver** : Co-creative workshop, IRL at Octopus cooperative and online in our favourite numeric place, Manyland !
 
-**- Furcadian Nights** : Our polyphonic play has been published in Immersion #06, Frontiers! (To order the magazine, click here)[https://immersion-revue.fr/numeros/immersion-6-frontieres/]
+**- Furcadian Nights** : Our polyphonic play has been published in Immersion #06, Frontiers! [To order the magazine, click here](https://immersion-revue.fr/numeros/immersion-6-frontieres/)
 
   
 ***PROMISED PROJECTS :***  
