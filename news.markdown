@@ -16,6 +16,7 @@ Our polyphonic play has been published in Immersion #06, Frontiers! (To order th
 
   
 ***PROMISED PROJECTS :***  
+**- a WMAN collecting card booster ©** will be featured in the riso+quadri printed revue SPEKTRUM CRUSH IV :dragon: next to a long list of super cool other players! 
 **- Dino parade @ Kara's Xplay Isla Nublar (7) [Cluster]**  
 in the game ARK available on Apple and Windows via EPIC store & Steam games,  
 date to be anounced soon here, visible in game and live on twich 
