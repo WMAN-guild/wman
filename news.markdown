@@ -3,6 +3,7 @@ layout: page
 title: News
 permalink: /news/
 icone: /imgs/inews.gif
+order: 3
 ---
 ***LAST NEWS :***
 
