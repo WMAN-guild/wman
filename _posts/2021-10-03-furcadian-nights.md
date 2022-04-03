@@ -2,7 +2,7 @@
 layout: post
 title:  WMANNUMERO01_DRAGON
 titre-court: Dragon
-date:   2020-04-23 15:30:49 +0200
+date:   2021-10-03 15:30:49 +0200
 categories: book
 icone: /imgs/ibook.gif
 ---
