@@ -8,6 +8,8 @@ icone: /imgs/icoeur.gif
 ---
 *Co-creative workshop, IRL at Octopus Cooperative (Paris) and online in Manyland*
 
+![Les portes](({{site.imgurl}}/octo01.png)
+
 **ENG**
 In October 22, we had the great honour to be invited by the brand new Octopus Cooperative, a cooperative for art and creative workers. We organised a workshop there, both IRL in Octopus's space and online inside our beloved Manyland. With all the participants, we tried to recreate the forgotten world of a non-binary dragon, Ketchup-Mayo, immersed in a deep sleep until his memories return. With the help of the crypted visions of an oracle provoked by a game of jacks thrown IRL by those at Octopus's site, we've drawn together in Manyland what the world of Ketchup-Mayo might have been like, hoping it would help him to break his heavy sleep and allow him to come back to our reality.
 
@@ -18,7 +20,10 @@ En octobre 22, nous avons eu le grand honneur d'être invité.es dans la toute n
 
 Les dessins et les histoires construits ou découverts par les participant.es sont réunis dans un jeu de cartes qui retrace notre voyage à travers les souvenirs de Ketchup-Mayo.
 
-![Les portes](({{site.imgurl}}/octo01.png)
-![La fin](({{site.imgurl}}/octo02.png)
-![Les cartes](({{site.imgurl}}/octo03.png)
-![Les souvenirs](({{site.imgurl}}/octo04.png)
+![Les portes]({{site.imgurl}}/octo01.png)
+
+![La fin]({{site.imgurl}}/octo02.png)
+
+![Les cartes]({{site.imgurl}}/octo03.png)
+
+![Les souvenirs]({{site.imgurl}}/octo04.png)
