@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 icone: /imgs/iabout.gif
+order: 2
 ---
 [EN]
 
