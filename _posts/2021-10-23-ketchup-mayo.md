@@ -8,7 +8,7 @@ icone: /imgs/icoeur.gif
 ---
 *Co-creative workshop, IRL at Octopus Cooperative (Paris) and online in Manyland*
 
-![Les portes](({{site.imgurl}}/octo01.png)
+![Les portes]({{site.imgurl}}/octo01.png)
 
 **ENG**
 In October 22, we had the great honour to be invited by the brand new Octopus Cooperative, a cooperative for art and creative workers. We organised a workshop there, both IRL in Octopus's space and online inside our beloved Manyland. With all the participants, we tried to recreate the forgotten world of a non-binary dragon, Ketchup-Mayo, immersed in a deep sleep until his memories return. With the help of the crypted visions of an oracle provoked by a game of jacks thrown IRL by those at Octopus's site, we've drawn together in Manyland what the world of Ketchup-Mayo might have been like, hoping it would help him to break his heavy sleep and allow him to come back to our reality.
