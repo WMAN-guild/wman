@@ -58,6 +58,7 @@
 			<span class="infobulle" aria-label="{{ post.categories }} / {{ post.titre-court }}"><img class="icone-post" src="{{ post.icone | relative_url }}" alt=""></span>
 			</a>
 			{% endfor %}
+			</div>
 				
 			{% assign sorted-posts = site.posts | where: "icone","/imgs/ipresse.gif" %}
 			<div class="post-cat">
